@@ -1,0 +1,19 @@
+Table->
+<table  cellspacing="10">
+        <thead>
+            <tr> 
+                <th>Year</th>
+                <th>Institution</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2006-2018</td>
+                <td>St. Thomas h. s. School </td>
+            </tr>
+            <tr>
+                <td>2022</td>
+                <td>HCET</td>
+            </tr>
+        </tbody>
+    </table>``
